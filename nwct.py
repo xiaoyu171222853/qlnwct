@@ -2,7 +2,7 @@
 # Version: v1.7
 # Created by lstcml on 2022/04/01
 # 建议定时10分钟：*/10 * * * *
-#羊毛群683595687
+#q群小分队683595687
 
 import os
 import re
